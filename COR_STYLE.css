@@ -43,10 +43,9 @@ body {
     background-color: #f9f9f9;
 }
 info-box h4,
-.subject-info h4,
-.assessed-fees h4,
-.rules-refund h4 {
-    background-color: #ada6ec;
+.subject-info h4
+ {
+    background-color: #2416a7;
     color: rgb(0, 0, 0);
     padding: 10px;
     margin: 10px 0;
