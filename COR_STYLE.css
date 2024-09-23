@@ -9,3 +9,21 @@ body {
     justify-content: center;
     align-items: center;
 }
+.PSU {
+    margin-right: 20px; 
+
+}
+
+.PSU img {
+    width: 100px;
+    height: auto; 
+}
+.certificate{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin: auto 0;
+    padding: 10px;
+}
