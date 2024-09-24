@@ -57,7 +57,8 @@ body {
 .student-info,
 .subject-table,
 .fees-table,
-.summary-table
+.summary-table,
+.payment-schedule
 {
     width: 100%;
     border-collapse: collapse;
@@ -67,7 +68,8 @@ body {
 .student-info td,
 .subject-table td,
 .fees-table td,
-.summary-table td{
+.summary-table td,
+.payment-schedule td {
     border: 1px solid black;
     padding: 10px;
     text-align: left;
